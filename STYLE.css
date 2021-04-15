@@ -1,0 +1,13 @@
+#btm1{
+    margin: 20px;
+}
+input{
+    margin-left: 20px;
+}
+#btm2{
+    margin: 20px;
+    display:none;
+}
+body{
+    text-align: center;
+}
